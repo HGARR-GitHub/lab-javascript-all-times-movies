@@ -5,7 +5,7 @@ var movies = [
     director: 'Frank Darabont',
     duration: '2h 22min',
     genre: ['Crime', 'Drama'],
-    rate: '9.3'
+    rate: '9,3'
   },
   {
     title: 'The Godfather',
